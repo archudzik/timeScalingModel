@@ -35,16 +35,6 @@ We test the hypothesis that the expansion history of the universe can be describ
 
 > **ΔAIC = 401254.37** → Strong evidence in favor of Time-Scaling model in the global fit.
 
-## MCMC Posterior Estimates
-
-- **ΛCDM**:  
-  H₀ = 69.94 ± 0.85 km/s/Mpc  
-  Ωₘ = 0.24 ± 0.08
-
-- **Time-Scaling**:  
-  H₀ = 68.89 ± 2.19 km/s/Mpc  
-  α = 1.42 ± 0.23
-
 ## Scalar–Tensor Dynamics
 
 We model α(t) as a scalar field coupled to gravity via a Brans–Dicke–like action, and test three potentials:
