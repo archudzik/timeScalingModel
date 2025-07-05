@@ -92,4 +92,4 @@ Outputs include:
 
 If using this code or results, please cite:
 
-> Chudzik, A. (2025). Revisiting the relationship between the scale factor _a(t)_ and cosmic time _t_ using numerical analysis. _Mathematics_ (Basel, Switzerland).
+> Chudzik, A. (2025). Revisiting the relationship between the scale factor _a(t)_ and cosmic time _t_ using numerical analysis. _Mathematics_ (MDPI).
