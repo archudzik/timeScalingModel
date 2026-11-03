@@ -93,3 +93,15 @@ Outputs include:
 If using this code or results, please cite:
 
 > Chudzik, A. (2025). Revisiting the relationship between the scale factor _a(t)_ and cosmic time _t_ using numerical analysis. _Mathematics_ (MDPI).
+
+## Citation and reuse
+
+The accompanying peer-reviewed article is: Artur Chudzik (2025), *Revisiting the Relationship Between the Scale Factor (a(t)) and Cosmic Time (t) Using Numerical Analysis*, *Mathematics* 13(14), 2233. DOI: https://doi.org/10.3390/math13142233. The publication links an archived code-and-data record at https://doi.org/10.5281/zenodo.15798998. See `CITATION.cff` for machine-readable article citation metadata.
+
+## Licensing and data sources
+
+- **Original analysis code** (`model.py`): MIT License; see `LICENSE-CODE`.
+- **Input data** (`dataset/`): sourced from Pantheon+SH0ES, GRB, cosmic-chronometer and Planck compilations listed above. They are **not** covered by `LICENSE-CODE`; consult each source's terms and attribution requirements before reuse or redistribution.
+- **Generated figures** (`fig_*.png`): not assigned a new reuse license here; their inputs and publication context need to be considered separately.
+
+This licensing note does not change the results, original data files, or the rights granted by upstream sources.
